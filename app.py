@@ -6,8 +6,12 @@ from openai import OpenAI
 
 client = OpenAI()
 
+
 IMAGE_DIR = "extracted_images"
 OUTPUT_DIR = "output"
+
+os.makedirs(IMAGE_DIR, exist_ok=True)
+os.makedirs(OUTPUT_DIR, exist_ok=True)
 
 
 # ---------- PAGE CONFIG ----------
@@ -104,7 +108,7 @@ def extract_images(pdf_path, prefix):
 
             image_bytes = base["image"]
 
-            img_path = os.path.join("extracted_images", f"{prefix}_{page_index}_{img_index}.png")
+            img_path = os.path.join(IMAGE_DIR, f"{prefix}_{page_index}_{img_index}.png")
 
             with open(img_path, "wb") as f:
                 f.write(image_bytes)

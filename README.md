@@ -24,6 +24,17 @@ The solution is designed to work on **similar inspection datasets**, not just th
 
 ---
 
+## Project Screenshots
+
+### Application Interface
+![Homepage]("C:\Users\Asus\OneDrive\Pictures\Screenshots 1\Screenshot 2026-03-15 193212.png")
+
+
+### Generated DDR Report Output
+![Report Output]("C:\Users\Asus\OneDrive\Pictures\Screenshots 1\Screenshot 2026-03-15 193652.png")
+
+---
+
 # Key Features
 
 • Upload **Inspection Report (PDF)**

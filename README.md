@@ -24,17 +24,6 @@ The solution is designed to work on **similar inspection datasets**, not just th
 
 ---
 
-## Project Screenshots
-
-### Application Interface
-
-
-
-### Generated DDR Report Output
-
-
----
-
 # Key Features
 
 • Upload **Inspection Report (PDF)**

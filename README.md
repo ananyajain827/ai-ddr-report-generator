@@ -27,11 +27,11 @@ The solution is designed to work on **similar inspection datasets**, not just th
 ## Project Screenshots
 
 ### Application Interface
-![Homepage]("Screenshot 2026-03-15 193212.png")
+
 
 
 ### Generated DDR Report Output
-![Report Output]("Screenshot 2026-03-15 193652.png")
+
 
 ---
 

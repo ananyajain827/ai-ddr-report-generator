@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.env
+output/
+extracted_images/
+inspection.pdf
+thermal.pdf
